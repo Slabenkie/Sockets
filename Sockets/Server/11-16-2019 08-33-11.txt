@@ -1,0 +1,44 @@
+08:33:11 Ip 192.168.1.2 port 2000 ready
+08:33:11 Ip 127.0.0.1 port 2000 ready
+08:33:32 Response from client : 192.168.1.2 : Long time no see!
+08:33:32 Answer to client : 192.168.1.2 : I'm, not understand
+08:33:32 Response from client : 127.0.0.1 : Long time no see!
+08:33:32 Answer to client : 127.0.0.1 : I'm, not understand
+08:33:32 Response from client : 127.0.0.1 : How is it going?
+08:33:32 Answer to client : 127.0.0.1 : I'm, not understand
+08:33:32 Response from client : 127.0.0.1 : What are you up to?
+08:33:32 Answer to client : 127.0.0.1 : I'm, not understand
+08:33:32 Response from client : 127.0.0.1 : See you soon!
+08:33:32 Answer to client : 127.0.0.1 : I'm, not understand
+08:33:32 Response from client : 127.0.0.1 : Say hi
+08:33:32 Answer to client : 127.0.0.1 : I'm, not understand
+08:33:32 Response from client : 127.0.0.1 : How's life?
+08:33:32 Answer to client : 127.0.0.1 : I'm, not understand
+08:33:32 Response from client : 127.0.0.1 : Good luck!
+08:33:32 Response from client : 192.168.1.2 : How is it going?
+08:33:32 Answer to client : 192.168.1.2 : I'm, not understand
+08:33:32 Response from client : 192.168.1.2 : What are you up to?
+08:33:32 Answer to client : 192.168.1.2 : I'm, not understand
+08:33:32 Response from client : 192.168.1.2 : Have a nice day!
+08:33:32 Answer to client : 127.0.0.1 : I'm, not understand
+08:33:32 Response from client : 127.0.0.1 : What have you been up to?
+08:33:32 Answer to client : 127.0.0.1 : I'm, not understand
+08:33:32 Answer to client : 192.168.1.2 : I'm, not understand
+08:33:32 Response from client : 192.168.1.2 : Take care!
+08:33:32 Answer to client : 192.168.1.2 : I'm, not understand
+08:33:32 Response from client : 127.0.0.1 : Do you understand me?
+08:33:32 Response from client : 192.168.1.2 : Say hi
+08:33:32 Answer to client : 192.168.1.2 : I'm, not understand
+08:33:32 Response from client : 192.168.1.2 : How's life?
+08:33:32 Answer to client : 192.168.1.2 : I'm, not understand
+08:33:32 Answer to client : 127.0.0.1 : Yes, I do
+08:33:32 Response from client : 192.168.1.2 : Good luck!
+08:33:32 Answer to client : 192.168.1.2 : I'm, not understand
+08:33:32 Response from client : 192.168.1.2 : See you soon!
+08:33:32 Answer to client : 192.168.1.2 : I'm, not understand
+08:33:32 Response from client : 192.168.1.2 : Until we meet again!
+08:33:32 Answer to client : 192.168.1.2 : I'm, not understand
+08:33:32 Response from client : 192.168.1.2 : What have you been up to?
+08:33:32 Answer to client : 192.168.1.2 : I'm, not understand
+08:33:32 Response from client : 192.168.1.2 : Do you understand me?
+08:33:32 Answer to client : 192.168.1.2 : Yes, I do
